@@ -1,0 +1,8 @@
+C:\Users\adraghici\Desktop\Training\Training.IRepository\bin\Debug\Training.IRepository.dll
+C:\Users\adraghici\Desktop\Training\Training.IRepository\bin\Debug\Training.IRepository.pdb
+C:\Users\adraghici\Desktop\Training\Training.IRepository\bin\Debug\Training.Model.dll
+C:\Users\adraghici\Desktop\Training\Training.IRepository\bin\Debug\Training.Model.pdb
+C:\Users\adraghici\Desktop\Training\Training.IRepository\obj\Debug\proiectFacultate.IRepository.csprojAssemblyReference.cache
+C:\Users\adraghici\Desktop\Training\Training.IRepository\obj\Debug\proiectFacultate.IRepository.csproj.CopyComplete
+C:\Users\adraghici\Desktop\Training\Training.IRepository\obj\Debug\Training.IRepository.dll
+C:\Users\adraghici\Desktop\Training\Training.IRepository\obj\Debug\Training.IRepository.pdb

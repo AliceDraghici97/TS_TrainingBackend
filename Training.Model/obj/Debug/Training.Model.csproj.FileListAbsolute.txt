@@ -1,0 +1,10 @@
+C:\Users\adraghici\source\repos\Training\Training.Model\bin\Debug\Training.Model.dll
+C:\Users\adraghici\source\repos\Training\Training.Model\bin\Debug\Training.Model.pdb
+C:\Users\adraghici\source\repos\Training\Training.Model\obj\Debug\Training.Model.csprojAssemblyReference.cache
+C:\Users\adraghici\source\repos\Training\Training.Model\obj\Debug\Training.Model.csproj.CoreCompileInputs.cache
+C:\Users\adraghici\source\repos\Training\Training.Model\obj\Debug\Training.Model.dll
+C:\Users\adraghici\source\repos\Training\Training.Model\obj\Debug\Training.Model.pdb
+C:\Users\adraghici\Desktop\Training\Training.Model\bin\Debug\Training.Model.dll
+C:\Users\adraghici\Desktop\Training\Training.Model\bin\Debug\Training.Model.pdb
+C:\Users\adraghici\Desktop\Training\Training.Model\obj\Debug\Training.Model.dll
+C:\Users\adraghici\Desktop\Training\Training.Model\obj\Debug\Training.Model.pdb

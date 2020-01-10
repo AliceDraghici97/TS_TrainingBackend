@@ -1,0 +1,17 @@
+C:\Users\adraghici\source\repos\Training\Training.IRepository\bin\Debug\Training.IRepository.dll
+C:\Users\adraghici\source\repos\Training\Training.IRepository\bin\Debug\Training.IRepository.pdb
+C:\Users\adraghici\source\repos\Training\Training.IRepository\bin\Debug\Training.Model.dll
+C:\Users\adraghici\source\repos\Training\Training.IRepository\bin\Debug\Training.Model.pdb
+C:\Users\adraghici\source\repos\Training\Training.IRepository\obj\Debug\Training.IRepository.csprojAssemblyReference.cache
+C:\Users\adraghici\source\repos\Training\Training.IRepository\obj\Debug\Training.IRepository.csproj.CoreCompileInputs.cache
+C:\Users\adraghici\source\repos\Training\Training.IRepository\obj\Debug\Training.IRepository.csproj.CopyComplete
+C:\Users\adraghici\source\repos\Training\Training.IRepository\obj\Debug\Training.IRepository.dll
+C:\Users\adraghici\source\repos\Training\Training.IRepository\obj\Debug\Training.IRepository.pdb
+C:\Users\adraghici\Desktop\Training\Training.IRepository\bin\Debug\Training.IRepository.dll
+C:\Users\adraghici\Desktop\Training\Training.IRepository\bin\Debug\Training.IRepository.pdb
+C:\Users\adraghici\Desktop\Training\Training.IRepository\bin\Debug\Training.Model.dll
+C:\Users\adraghici\Desktop\Training\Training.IRepository\bin\Debug\Training.Model.pdb
+C:\Users\adraghici\Desktop\Training\Training.IRepository\obj\Debug\Training.IRepository.csprojAssemblyReference.cache
+C:\Users\adraghici\Desktop\Training\Training.IRepository\obj\Debug\Training.IRepository.csproj.CopyComplete
+C:\Users\adraghici\Desktop\Training\Training.IRepository\obj\Debug\Training.IRepository.dll
+C:\Users\adraghici\Desktop\Training\Training.IRepository\obj\Debug\Training.IRepository.pdb

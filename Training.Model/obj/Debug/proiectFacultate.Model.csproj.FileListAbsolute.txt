@@ -1,0 +1,5 @@
+C:\Users\adraghici\Desktop\Training\Training.Model\bin\Debug\Training.Model.dll
+C:\Users\adraghici\Desktop\Training\Training.Model\bin\Debug\Training.Model.pdb
+C:\Users\adraghici\Desktop\Training\Training.Model\obj\Debug\proiectFacultate.Model.csprojAssemblyReference.cache
+C:\Users\adraghici\Desktop\Training\Training.Model\obj\Debug\Training.Model.dll
+C:\Users\adraghici\Desktop\Training\Training.Model\obj\Debug\Training.Model.pdb
